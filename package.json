@@ -1,0 +1,11 @@
+{
+  "name": "craft",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/interpreter.js",
+  "scripts": {
+    "test": "node src/interpreter.js"
+  },
+  "author": "CraftingDani",
+  "license": "ISC"
+}
