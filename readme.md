@@ -9,6 +9,22 @@ by CraftingDani
     let
     if
     else
+    typeof
+    for
+    while
+    break
+    return
+    try
+    catch
+    new
+    extends
+    this
+    super
+    static
+    null
+    throw
+    import
+    export
 
 
 ## Syntax
@@ -41,8 +57,22 @@ by CraftingDani
     boolean: true/false
     number: positive & negative numbers, floats, range: -(2^53 - 1) to 2^53 - 1
     char: alphabetic character
-    string: list/array of characters
-    
+    string: list/array of characters max. length: 25^3 - 1 char(s)
 ### data structures
-    array: array of types above
+    array: array of primitive types, objects, other arrays
     object: key & value pairs, can contain primitive types, arrays, other objects  (like JSON)
+### other
+    function: function
+
+
+## Operators
+    +
+    -
+    *
+    /
+    .
+
+
+## Standard Library Content
+    print()
+    data types & structures above
