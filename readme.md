@@ -46,7 +46,7 @@ by CraftingDani
     }
     
 ### call function
-    <name>(<args>)
+    <name>! <opt. args>
     
 ### define class
     class <Name>(<inputs like constructor>) optional: extends <Class>
