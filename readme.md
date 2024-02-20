@@ -53,8 +53,7 @@ by CraftingDani
     {
         <variables>, <methods>
     }
-### condi
-tions
+### conditions
     if <condition>
     {
         <logic>
