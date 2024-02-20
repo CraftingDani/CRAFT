@@ -32,24 +32,38 @@ by CraftingDani
     const <name> = <value>
     or
     let <name> = <value>
+    
 ### define function
-    fun <name>(<params>)
+    fun <name>
     {
         <logic>
-        optional: return <>
     }
+    
+    with parameters:
+    fun <name>: <params>
+    {
+        <logic>
+    }
+    
 ### call function
     <name>(<args>)
+    
 ### define class
     class <Name>(<inputs like constructor>) optional: extends <Class>
     {
         <variables>, <methods>
     }
-### conditions
-    if(<condition>)
+### condi
+tions
+    if <condition>
     {
-        <logic executed if condition == true>
+        <logic>
     }
+    
+### return statements
+    return <value>
+    or
+    return! <value>
 
 
 ## Types
